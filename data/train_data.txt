@@ -1,0 +1,9 @@
+./data/21533.jpg
+./data/21534.jpg
+./data/21535.jpg
+./data/21536.jpg
+./data/21537.jpg
+./data/21538.jpg
+./data/21539.jpg
+./data/21530.jpg
+./data/laska.png

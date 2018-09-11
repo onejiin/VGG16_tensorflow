@@ -1,0 +1,9 @@
+VGG16 fine tuning with Tensorflow
+=========================================
+
+### usage
+python Train.py
+
+### reference
+https://www.cs.toronto.edu/~frossard/post/vgg16/
+
